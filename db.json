@@ -1,15 +1,15 @@
 {
-  "book": [
+  "Games": [
  
      {
         "title":"Собери Цвета",
         "image-data": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1",
-        "ref-link": "https://yandex.ru/games/play/97001"
+        "ref-link": "https://yandex.ru/games/play/142278"
      },
  
      {
-      "title":"Собери Цвета",
-      "image-data": "https://avatars.mds.yandex.net/get-games/1881957/2a00000176dd941eb2448138e4e6093088c1/cover1",
+      "title":"Детсие игры",
+      "image-data": "https://avatars.mds.yandex.net/get-games/1881957/2a0000016e26029858c35064da68dc00bfb9/cover1",
       "ref-link": "https://yandex.ru/games/play/97001"
      }
   ]
